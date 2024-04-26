@@ -1,3 +1,3 @@
 # Coisas Aleatórias
 
-Uma Criação da seita do aleatório.
+A Criação da seita do aleatório.
